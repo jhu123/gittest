@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: ￦ﾵﾋ￨ﾯﾕ
+Implementation-Version: 1.0
+Implementation-Vendor-Id: org.springframework.boot
+Build-Jdk: 1.7.0_80
+Built-By: john
+Created-By: Maven Integration for Eclipse
+
